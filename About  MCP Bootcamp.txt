@@ -76,11 +76,6 @@ ________________________________________
 •	Docker GitHub Actions VS Code
 ________________________________________
 
-10. About the Instructor
-
-Ratnesh has over 4+ years of experience in data analytics and AI and more than 3+ years of teaching experience in Machine Learning Deep Learning NLP and Generative AI. Known for his practical and hands-on teaching style he has trained millions of learners worldwide in real-world AI applications.
-________________________________________
-
 Prerequisites
 
 •	Basic understanding of Python programming and APIs
@@ -114,6 +109,7 @@ Section 11 Project Real Time Job Recommendation System
 Section 12 Project StoryForge Agent
 Section 13 Project Clinisight AI
 Section 14 Build Agent with Google Development Kit ADK
+
 
 
 
