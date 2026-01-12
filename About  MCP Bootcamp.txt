@@ -95,3 +95,25 @@ By the End of This Course You Will
 •	Connect LLMs with tools APIs and real-world data
 •	Build and deploy Agentic AI and RAG applications powered by MCP
 
+
+________________________________________
+
+Table of Contents
+
+Section 1 Model Context Protocol
+Section 2 Getting Started With Claude Desktop And Cursor IDE
+Section 3 Cursor IDE MCP Server Setup
+Section 4 How to build Your Own MCP Client using Python and Google Gemini API
+Section 5 How to build Docker MCP Server
+Section 6 LangChain MCP Client using LangChain MCP Adapters
+Section 7 MCP Client with Multiple Server Support
+Section 8 MCP Server and Client using SSE
+Section 9 Deploying MCP Server to AWS Cloud Platform
+Section 10 Project Real Time Weather Agent using MCP and MCP Inspector
+Section 11 Project Real Time Job Recommendation System
+Section 12 Project StoryForge Agent
+Section 13 Project Clinisight AI
+Section 14 Build Agent with Google Development Kit ADK
+
+
+
